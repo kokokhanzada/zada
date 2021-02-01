@@ -10,10 +10,10 @@ logo = """
      YP   YP       `Y88P'       88 
 
 -----------------------------------------------
-* Coded By  : Muhammad Hamza 
-* Facebook  : Muhammd Hamza
-* Github    : https://github.com/Hamzahash
-* Youtube   : H.O.P Programmers
+* Coded By  : Sultan Khan 
+* Facebook  : Sultan Khan
+* Github    : https://github.com/Kokokhanzada
+* Youtube   : FB HACKER Programmers
 -----------------------------------------------"""
 print(logo)
 print ("")
